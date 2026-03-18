@@ -1,0 +1,100 @@
+<DOCTYPE html>
+    <html>
+
+
+    <head>
+        <title></title> Trivia Time</title>
+        </head>
+
+        <body>
+            <!--Heading-->
+            <h1>Trivia about Honeybees</h1>
+        </body>
+        <!--Navigation-->
+
+
+        <ul>
+            <li><a href="http://">Honeybees</a></li>
+            <li><a href="http://">Bee Hive</a></li>
+            <li><a href="http://">Bee Products</a></li>
+            <li><a href="http://">Sweet Honey</a></li>
+
+        </ul>
+
+        <!--Intro--> 
+
+        <h2>* Why are honeybees important in nature?</h2>
+        <p>Honeybees are essential to nature as key pollinators, ensuring the reproduction of over 90% of the world's top 107 food
+        crops and countless wildflowers. By facilitating plant fertilization, they maintain biodiversity, support entire
+        ecosystems, improve agricultural yields, and directly contribute to the survival of birds and mammals that depend on
+        these plants for food.</p>
+
+    <h2>*What happens if a honeybee stings you?</h2>
+        <p>A honey bee sting causes immediate sharp pain, burning, redness, and swelling, often leaving a barbed stinger in the
+        skin. While typically causing mild localized discomfort for a few days, it can trigger severe allergic reactions
+        (anaphylaxis) or, if stung many times, serious toxicity requiring immediate medical attention.</p>
+
+<h2>*How do honeybees make honey?</h2>
+<p>Honeybees make honey by collecting nectar from flowers, which they store in a specialized "honey stomach". Inside the
+hive, they pass the nectar mouth-to-mouth to other bees to reduce its water content and add enzymes, breaking down
+sugars. Finally, they store the thick mixture in honeycomb cells and fan it with their wings to evaporate excess water,
+creating honey.</p>
+
+<h2>*What are the jobs of worker bees at different ages?</h2>
+<p>Worker bees (female) progress through specialized roles based on age to maintain the hive efficiently: they start as
+cleaners (days 1-3), become nurses feeding larvae (days 3-12), transition to house bees building comb and processing
+food (days 12-20), serve as guards (days 18-21), and end as foragers (days 21-death).</p>
+
+<h2>* how is a new queen formed in a group of honeybees?</h2>
+<p>A new queen honeybee is formed when worker bees feed a young female larva (under 3 days old) a exclusive diet of royal
+jelly and house it in a specially constructed, large "queen cell". This diet, rich in nutrients, triggers the larva to
+develop into a fertile queen rather than a sterile worker, with the process taking only about 16 days.</p>
+
+<h2>*What is the work of drone bees?</h2>
+<p>Drone bees are male honey bees whose sole purpose is to mate with a virgin queen bee from their own or another colony,
+ensuring genetic diversity. They possess no stingers, do not gather nectar or pollen, and cannot feed themselves,
+relying entirely on worker bees for food. Drones fly to specific "drone congregation areas" to locate queens, and those
+that mate die instantly.</p>
+
+<h2>*How do bees make the "buzzing" sound?</h2>
+<p>Bees buzz primarily by vibrating their powerful thoracic flight muscles at extremely high speeds, often over 200 times
+per second, which causes their wings to beat rapidly and shakes the air. This rapid oscillation of muscles, even with
+wings folded, allows them to produce vibrations for flight, defense, and specialized pollination.</p>
+
+<h2>*What causes Colony Collapse Disorder in bees?</h2>
+<p>Colony Collapse Disorder (CCD) in bees is caused by a combination of interacting stressors rather than a single factor,
+primarily including parasitic mites, pesticide exposure, and poor nutrition. It is characterized by the rapid loss of
+adult worker bees from a hive, leaving behind the queen, brood, and food stores.</p>
+
+<h2>*How do bees communicate the location of food sources?</h2>
+<p>Bees communicate food locations using the "waggle dance," a figure-eight movement performed on the honeycomb by
+returning foragers. This dance signals direction (angle of the dance relative to the sun) and distance (length of the
+waggle) to hive mates, alongside scent cues from the nectar to identify the flowers.</p>
+
+<h2>*How long is the lifespan of a queen, worker, and drone bee?</h2>
+Queen bees typically live for 2 to 5 years, worker bees live for 5 to 7 weeks during summer (up to several months in winter),
+and drones (male bees) live for about 57 days, or until they mate and immediately die. The queen has a long life because of her specialized diet, while the worker bees die from exhaustion.
+
+<h2>*How is a drone bee produced (parthenogenesis)?</h2>
+<p>Drone bees are produced through arrhenotoky, a form of parthenogenesis where the queen bee lays unfertilized eggs. These
+eggs are haploid (
+), containing only 16 chromosomes from the queen, and develop into male drones without fertilization by sperm. Theypossess no father and are genetically related only to their mother.</p>
+
+<h2>*What happens to a colony if there is no queen?</h2>
+<p>A bee colony without a queen will eventually die, usually within two months, as no new worker bees are produced to replace the aging population. The colony becomes listless or irritable, and in a desperate final stage, workers maystart laying unfertilized eggs, leading to a crowded, male-only hive.</p>
+
+<h2>*Why do bees sting, and do they die?</h2>
+<p>Honeybees sting to protect their hive from threats. Only female honeybees die after stinging mammals, as their barbed stingers get stuck in elastic skin, causing them to tear their abdomen away when trying to fly off. Other beespecies,wasps, and hornets have smooth stingers and can sting multiple times without dying.</p>
+
+<h2>What color can bees not see?</h2>
+<p>Bees cannot see the color red. Because their vision is shifted toward the ultraviolet (UV) spectrum, red objects often appear dark grey or black to them. Instead of red, bees are highly attracted to yellow, blue, and bluish-green, and they can perceive ultraviolet light patterns on flowers.</p>
+
+<h2>*What are the products obtained from beekeeping?</h2>
+<p>The best known primary products of beekeeping are honey and wax, but pollen, propolis, royal jelly, venom, queens, bees and their larvae are also marketable primary bee products.</p>
+
+<h2>*What is the rarest colour of honey?</h2>
+<p>Purple honey exists in North Carolina's Sandhills, and virtually nowhere else on Earth. The deep violet color may come from mineral rich soil or unique enzymes, but remains a mystery.</p>
+
+<h2>*Can you eat a "1000" year old honey?</h2>
+<p>Yes, you can likely eat 1000-year-old honey because honey never truly spoils due to its low water content, high acidity, and natural antibacterial properties, with archaeologists finding edible 3,000-year-old honey in Egyptian tombs. While it may crystallize or become very hard, its chemical makeup prevents bacterial growth, but it's crucial to ensure it was
+sealed in a moisture-free environment to remain safe, as botulism spores can exist, though usually inactive in honey.</p>
