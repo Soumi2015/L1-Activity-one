@@ -1,0 +1,85 @@
+<DOCTYPE html>
+    <html>
+
+    <head>
+        <title> Bootstrap example</title>
+
+
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+
+
+
+        <style>
+            .red_box {
+
+                background-color: red;
+                border: 1px solid black;
+
+            }
+
+            .lavender_box {
+
+                background-color: lavender;
+                border: 1px solid black;
+
+            }
+
+            .lavenderblush-box {
+
+                background-color: lavenderblush;
+                border: 1px solid black;
+
+            }
+
+            .grey-box {
+
+                background-color: grey;
+                border: 1px solid black;
+
+            }
+
+            .row-cyan-row {
+
+                background-color: cyan;
+                border: 1px solid black;
+            }
+        </style>
+
+    </head>
+
+    <body>
+
+        <div class="container">
+            <h1> Hello students!</h1>
+            <p> Resize the browser window to see the effect.</p>
+
+            <div class="row">
+
+                <div class="col-md-8 col-4 red_box">
+                    xs
+                </div>
+
+                <div class="col-md-4 col-8 lavender_box">
+                    .col-8
+                </div>
+            </div>
+
+            <div class="col-md-12 col-lg-6 lavenderblush-box">
+                .col-12
+            </div>
+
+            <div class="col-6 col-md-2 grey-box">
+                .col-6
+            </div>
+        </div>
+
+        <div class="row-cyan-row">
+            <div class="col-6">,col-6</div>
+            <div class="col-6">,col-6</div>
+
+        </div>
+        </div>
+
+    </body>
+
+    </html>
