@@ -1,0 +1,36 @@
+<DOCTYPE html>
+    <hmtl>
+
+        <head>
+            <title>Console + Basic JavaScript</title>
+        </head>
+
+        <body>
+            <h2>Welcome To The World The World Of JavaScript</h2>
+
+            <script>
+
+                console.log("Welcome To Web Developement");
+
+                let name = "Sumit";
+                let favouritesubject = "Mathematics";
+                let grade = 5;
+
+                console.log(
+                    "My name is ${name}. I study in ${grade}. My favourite subject is ${favouritesubject}."
+                );
+
+                let student = {
+                    name: "Sumit",
+                    grade: 5,
+                    favouritesubject: "Mathematics"
+
+                };
+
+                console.log(
+                    "My name is ${student.name}. I study in ${student.grade}. My favourite subject is ${student.favouritesubject}."
+                );
+
+            </script>
+        </body>
+    </hmtl>
