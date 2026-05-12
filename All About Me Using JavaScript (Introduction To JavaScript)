@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Console + Basic JavaScript</title>
+</head>
+
+<body>
+    <h2>Welcome To The World The World Of JavaScript</h2>
+
+    <script>
+
+        console.log("All About Me");
+
+        let name = "Soumi";
+        let favouritesubject = "Mathematics";
+        let grade = 6;
+
+
+
+        console.log(
+            'My name is ${name}. I study in ${grade}. My favourite subject is ${favouritesubject}.'
+        );
+
+        let student = {
+            name: "Soumi",
+            grade: 6,
+            favouritesubject: "Mathematics",
+
+        };
+
+        console.log(
+            'My name is ${student.name}. I study in ${student.grade}. My favourite subject is ${student.favouritesubject}.'
+        );
+
+    </script>
+</body>
+
+</html>
