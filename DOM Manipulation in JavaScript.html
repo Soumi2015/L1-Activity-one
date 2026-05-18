@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tutorial</title>
+    <style>
+         #paragraph{
+            color: rgb(233, 10, 214);
+            background-color:wheat;
+            padding: 5px;
+            font-family: cursive;
+            font-size: 20px;
+         }
+    </style>
+    </head>
+
+<body>
+    <h1 id="heading">Welcome</h1>
+    <p>Hello</p>
+    <p>How are you?</p>
+
+    <div id = "paragraph" class="alert">
+        <p>Congrats! You have created a div.</p>
+        </div>
+
+        <script>
+            let div = document.createElement('div');
+            div.id = "paragraph";
+            div.className = "alert"
+            div.innerHTML = "<p>Congrats! You have created a div. </p>";
+            document.body.append(div);
+
+            let heading = document.getElementById("heading");
+            heading.innerHTML = '&#128526;'
+        </script>
+
+</body>
+</html>
