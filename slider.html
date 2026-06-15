@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<style>
+    .slide {
+        width: 400px;
+        height: 500px;
+    }
+</style>
+
+<body>
+
+    <img class="slide" src="stone.jpg" alt="stone">
+
+    <img class="slide" src="secrets.jpg" alt="secrets">
+
+    <img class="slide" src="azkaban.jpg" alt="azkaban">
+
+    <img class="slide" src="goblet.jpg" alt="goblet">
+
+    <img class="slide" src="phoenix.jpg" alt="phoenix">
+
+    <img class="slide" src="prince.jpg" alt="prince">
+
+    <img class="slide" src="hallows.jpg" alt="hallows">
+
+    <img class="slide" src="cursed child.jpg" alt="cursed child">
+
+
+    <script>
+        let current = 0;
+        let slides = document.getElementsByClassName("slide");
+
+        function showSlides() {
+
+            for (let i = 0; i < slides.length; i++) {
+                slides[i].style.display = "none";
+            }
+
+            slides[current].style.display = "block";
+
+            current++;
+
+            if (current >= slides.length) {
+                current = 0;
+            }
+
+            setTimeout(showSlides, 5000);
+        }
+
+        showSlides();
+    </script>
+</body>
+
+</html>
