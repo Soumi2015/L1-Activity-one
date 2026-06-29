@@ -6,12 +6,12 @@ html {
     font-family: cursive;
     font-weight: 400;
     line-height: 1.8em;
-    color:rgb(110, 1, 83);
-    background-color:beige;
+    color: rgb(110, 1, 83);
+    background-color: beige;
 }
 
 .topnav {
-    overflow:hidden;
+    overflow: hidden;
     background-color: #333;
 }
 
@@ -45,4 +45,21 @@ html {
 
 .pimg3 {
     background-image: url();
+}
+
+.ptext .border.trans {
+    background-color: transparent;
+}
+
+.food_item1 {
+    width: 170px;
+    height: 170px;
+    margin-left: 15px;
+    float: right;
+}
+
+.food_item2 {
+    width: 170px;
+    height: 170px;
+    margin-left: 15px;
 }
